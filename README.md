@@ -144,9 +144,6 @@ Everything in this repo was produced with open or widely available tools:
 - **Power BI** for the interactive staffing-model dashboard shown at the top of this README (two pages: 2025 operating baseline and 2026 scenario view)
 - **Python** (pandas, openpyxl, numpy) for the synthetic dataset and staffing model
 - **Excel formulas** (SUMIF, cross-sheet references, editable assumption cells with blue-on-yellow convention) for the live-recalculating model
-- **Plotly + vanilla HTML/CSS** for the self-contained web dashboard
-- **pptxgenjs + react-icons + sharp** for the programmatically-built presentation
-- **LibreOffice** (CLI, via pptx skill) for rendering and visual QA
 
 No proprietary BI tools beyond Power BI itself, which is widely available in public-sector environments. The entire project could be rebuilt or extended by anyone with a Python environment, Excel, and a browser.
 
