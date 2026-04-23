@@ -3,10 +3,6 @@
 
 > *An end-to-end worked example of how to translate operational workload data into defensible FTE requirements for a complex 24/7 health-services organization.*
 
-![Status](https://img.shields.io/badge/status-portfolio-blue)
-![Tools](https://img.shields.io/badge/tools-Power%20BI%20%7C%20Excel%20%7C%20Python%20%7C%20Plotly%20%7C%20PPTX-6B46C1)
-![Scope](https://img.shields.io/badge/scope-staffing%20analytics-0C3A4A)
-
 ---
 
 ![2025 FTE need by role and facility — Power BI dashboard page 1](images/staffing_model_overview.png)
